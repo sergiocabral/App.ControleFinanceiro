@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ConnectionString>
+  <Firebird>
+    <User>sysdba</User>
+    <Password>masterkey</Password>
+    <DataSource>localhost</DataSource>
+    <Database>banco.fdb</Database>
+    <Port>3050</Port>
+    <Dialect>3</Dialect>
+    <Charset>WIN1252</Charset>
+    <Role></Role>
+    <Connection_Lifetime>0</Connection_Lifetime>
+    <Connection_Timeout>15</Connection_Timeout>
+    <Pooling>True</Pooling>
+    <Packet_Size>8192</Packet_Size>
+    <Server_Type>0</Server_Type>
+  </Firebird>
+</ConnectionString>

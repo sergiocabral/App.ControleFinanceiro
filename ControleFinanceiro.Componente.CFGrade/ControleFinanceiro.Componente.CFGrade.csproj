@@ -1,0 +1,110 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AA4C0FA6-2067-48DD-BE15-AAE90C6A2E06}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ControleFinanceiro.Componente.CFGrade</RootNamespace>
+    <AssemblyName>ControleFinanceiro.Componente.CFGrade</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TextBoxVerificadorData.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TextBoxVerificador.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GradeLancamentoLinha.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GradeLancamentoLinha.Designer.cs">
+      <DependentUpon>GradeLancamentoLinha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GradeLancamento.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GradeLancamento.Designer.cs">
+      <DependentUpon>GradeLancamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TextBoxVerificadorMoeda.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="TextBoxVerificadorData.resx">
+      <DependentUpon>TextBoxVerificadorData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextBoxVerificador.resx">
+      <DependentUpon>TextBoxVerificador.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GradeLancamento.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GradeLancamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GradeLancamentoLinha.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GradeLancamentoLinha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextBoxVerificadorMoeda.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TextBoxVerificadorMoeda.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_excluir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ControleFinanceiro.Bibliotecas\ControleFinanceiro.Bibliotecas.csproj">
+      <Project>{AAAFE9FC-9FD4-4EE3-9EF8-C550D7DB5F03}</Project>
+      <Name>ControleFinanceiro.Bibliotecas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

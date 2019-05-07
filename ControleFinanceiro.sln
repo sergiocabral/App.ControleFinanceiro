@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro", "ControleFinanceiro\ControleFinanceiro.csproj", "{8C2B2C08-EB27-4A03-819C-586D46E8179A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.BancoDeDados", "ControleFinanceiro.BancoDeDados\ControleFinanceiro.BancoDeDados.csproj", "{74AF4E08-E0E0-421B-93D4-1F03A60B89D4}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.ManipuladorDeDados", "ControleFinanceiro.ManipuladorDeDados\ControleFinanceiro.ManipuladorDeDados.csproj", "{669EAECD-2B9B-4190-9718-309B1F47CF74}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.ManipuladorDoProcesso", "ControleFinanceiro.ManipuladorDoProcesso\ControleFinanceiro.ManipuladorDoProcesso.csproj", "{11A045B1-86A5-481B-9E1D-EC8A82A5145C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.Bibliotecas", "ControleFinanceiro.Bibliotecas\ControleFinanceiro.Bibliotecas.csproj", "{AAAFE9FC-9FD4-4EE3-9EF8-C550D7DB5F03}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.Componente.DockPanel", "ControleFinanceiro.Componente.DockPanel\ControleFinanceiro.Componente.DockPanel.csproj", "{C75532C4-765B-418E-B09B-46D36B2ABDB1}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.Entidades", "ControleFinanceiro.Entidades\ControleFinanceiro.Entidades.csproj", "{DFAB9E55-66AF-4F31-A58A-D355C22747E8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.Componente.CFGrade", "ControleFinanceiro.Componente.CFGrade\ControleFinanceiro.Componente.CFGrade.csproj", "{AA4C0FA6-2067-48DD-BE15-AAE90C6A2E06}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C2B2C08-EB27-4A03-819C-586D46E8179A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2B2C08-EB27-4A03-819C-586D46E8179A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2B2C08-EB27-4A03-819C-586D46E8179A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2B2C08-EB27-4A03-819C-586D46E8179A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AF4E08-E0E0-421B-93D4-1F03A60B89D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AF4E08-E0E0-421B-93D4-1F03A60B89D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AF4E08-E0E0-421B-93D4-1F03A60B89D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AF4E08-E0E0-421B-93D4-1F03A60B89D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669EAECD-2B9B-4190-9718-309B1F47CF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669EAECD-2B9B-4190-9718-309B1F47CF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669EAECD-2B9B-4190-9718-309B1F47CF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669EAECD-2B9B-4190-9718-309B1F47CF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A045B1-86A5-481B-9E1D-EC8A82A5145C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A045B1-86A5-481B-9E1D-EC8A82A5145C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A045B1-86A5-481B-9E1D-EC8A82A5145C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A045B1-86A5-481B-9E1D-EC8A82A5145C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAAFE9FC-9FD4-4EE3-9EF8-C550D7DB5F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAFE9FC-9FD4-4EE3-9EF8-C550D7DB5F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAFE9FC-9FD4-4EE3-9EF8-C550D7DB5F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAFE9FC-9FD4-4EE3-9EF8-C550D7DB5F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75532C4-765B-418E-B09B-46D36B2ABDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75532C4-765B-418E-B09B-46D36B2ABDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75532C4-765B-418E-B09B-46D36B2ABDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75532C4-765B-418E-B09B-46D36B2ABDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFAB9E55-66AF-4F31-A58A-D355C22747E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAB9E55-66AF-4F31-A58A-D355C22747E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAB9E55-66AF-4F31-A58A-D355C22747E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAB9E55-66AF-4F31-A58A-D355C22747E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA4C0FA6-2067-48DD-BE15-AAE90C6A2E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4C0FA6-2067-48DD-BE15-AAE90C6A2E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4C0FA6-2067-48DD-BE15-AAE90C6A2E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4C0FA6-2067-48DD-BE15-AAE90C6A2E06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

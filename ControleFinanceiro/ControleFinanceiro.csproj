@@ -1,0 +1,222 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8C2B2C08-EB27-4A03-819C-586D46E8179A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ControleFinanceiro</RootNamespace>
+    <AssemblyName>ControleFinanceiro</AssemblyName>
+    <ApplicationIcon>ico_sistema.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FirebirdSql.Data.Firebird, Version=1.7.2.0, Culture=neutral, PublicKeyToken=fa843d180294369d" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Janelas\JanelaBaseDockTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas\JanelaBaseDock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas\JanelaBaseComum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas\ManterCategoria\Janela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas\ManterCategoria\Janela.Designer.cs">
+      <DependentUpon>Janela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Janelas\ManterConfiguracao\Janela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas\ManterConfiguracao\Janela.Designer.cs">
+      <DependentUpon>Janela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Janelas\ManterLancamento\Janela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas\ManterLancamento\Janela.Designer.cs">
+      <DependentUpon>Janela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Janelas\ManterLivroCaixa\Janela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas\ManterLivroCaixa\Janela.Designer.cs">
+      <DependentUpon>Janela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Janelas\Principal\Janela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas\Principal\Janela.designer.cs">
+      <DependentUpon>Janela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Janelas\RealizarAutenticacao\Janela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas\RealizarAutenticacao\Janela.designer.cs">
+      <DependentUpon>Janela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Janelas\RealizarConexao\Janela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas\RealizarConexao\Janela.designer.cs">
+      <DependentUpon>Janela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Janelas\Sobre\Janela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Janelas\Sobre\Janela.Designer.cs">
+      <DependentUpon>Janela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Banco.fdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Extra\DockPanel_2_3_1_Soruce.zip" />
+    <None Include="Extra\ico_ativar.png" />
+    <None Include="Extra\ico_desativar.png" />
+    <None Include="Extra\ico_excluir.png" />
+    <None Include="Extra\ico_incluir.png" />
+    <None Include="Extra\ico_renomear.png" />
+    <None Include="Extra\img_fundo_janela_comum.png" />
+    <None Include="Extra\img_fundo_menu.jpg" />
+    <None Include="Extra\img_montagem.xcf" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ControleFinanceiro.Bibliotecas\ControleFinanceiro.Bibliotecas.csproj">
+      <Project>{AAAFE9FC-9FD4-4EE3-9EF8-C550D7DB5F03}</Project>
+      <Name>ControleFinanceiro.Bibliotecas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControleFinanceiro.Componente.CFGrade\ControleFinanceiro.Componente.CFGrade.csproj">
+      <Project>{AA4C0FA6-2067-48DD-BE15-AAE90C6A2E06}</Project>
+      <Name>ControleFinanceiro.Componente.CFGrade</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControleFinanceiro.Entidades\ControleFinanceiro.Entidades.csproj">
+      <Project>{DFAB9E55-66AF-4F31-A58A-D355C22747E8}</Project>
+      <Name>ControleFinanceiro.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControleFinanceiro.ManipuladorDoProcesso\ControleFinanceiro.ManipuladorDoProcesso.csproj">
+      <Project>{11A045B1-86A5-481B-9E1D-EC8A82A5145C}</Project>
+      <Name>ControleFinanceiro.ManipuladorDoProcesso</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControleFinanceiro.Componente.DockPanel\ControleFinanceiro.Componente.DockPanel.csproj">
+      <Project>{C75532C4-765B-418E-B09B-46D36B2ABDB1}</Project>
+      <Name>ControleFinanceiro.Componente.DockPanel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Configuracao.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Extra\ico_ajuda.ico" />
+    <Content Include="Extra\ico_autenticar.ico" />
+    <Content Include="Extra\ico_categoria.ico" />
+    <Content Include="Extra\ico_conectar.ico" />
+    <Content Include="Extra\ico_configuracao.ico" />
+    <Content Include="Extra\ico_controle_financeiro.ico" />
+    <Content Include="Extra\ico_controle_financeiro_16.png" />
+    <Content Include="Extra\ico_controle_financeiro_32.png" />
+    <Content Include="Extra\ico_controle_financeiro_48.png" />
+    <Content Include="Extra\ico_lancamento.png" />
+    <Content Include="Extra\ico_listview_ladolado.png" />
+    <Content Include="Extra\ico_seguranca.ico" />
+    <Content Include="Extra\ico_seguranca.png" />
+    <Content Include="Extra\ico_sistema.ico" />
+    <Content Include="Extra\img_fundo_janela_principal.jpg" />
+    <Content Include="Extra\img_fundo_janela_sobre.png" />
+    <Content Include="ico_sistema.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Janelas\JanelaBaseComum.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>JanelaBaseComum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas\JanelaBaseDock.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>JanelaBaseDock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas\JanelaBaseDockTool.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>JanelaBaseDockTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas\ManterCategoria\Janela.resx">
+      <DependentUpon>Janela.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas\ManterConfiguracao\Janela.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Janela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas\ManterLancamento\Janela.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Janela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas\ManterLivroCaixa\Janela.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Janela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas\Principal\Janela.resx">
+      <DependentUpon>Janela.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas\RealizarAutenticacao\Janela.resx">
+      <DependentUpon>Janela.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas\RealizarConexao\Janela.resx">
+      <DependentUpon>Janela.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Janelas\Sobre\Janela.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Janela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

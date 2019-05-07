@@ -1,0 +1,69 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{11A045B1-86A5-481B-9E1D-EC8A82A5145C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ControleFinanceiro.ManipuladorDoProcesso</RootNamespace>
+    <AssemblyName>ControleFinanceiro.ManipuladorDoProcesso</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MpManterLancamento.cs" />
+    <Compile Include="MpBase.cs" />
+    <Compile Include="MpManterLivroCaixa.cs" />
+    <Compile Include="MpBaseEntidade.cs" />
+    <Compile Include="MpManterCategoria.cs" />
+    <Compile Include="MpAutenticacao.cs" />
+    <Compile Include="MpConexao.cs" />
+    <Compile Include="MpManterConfiguracao.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ControleFinanceiro.Bibliotecas\ControleFinanceiro.Bibliotecas.csproj">
+      <Project>{AAAFE9FC-9FD4-4EE3-9EF8-C550D7DB5F03}</Project>
+      <Name>ControleFinanceiro.Bibliotecas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControleFinanceiro.Entidades\ControleFinanceiro.Entidades.csproj">
+      <Project>{DFAB9E55-66AF-4F31-A58A-D355C22747E8}</Project>
+      <Name>ControleFinanceiro.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControleFinanceiro.ManipuladorDeDados\ControleFinanceiro.ManipuladorDeDados.csproj">
+      <Project>{669EAECD-2B9B-4190-9718-309B1F47CF74}</Project>
+      <Name>ControleFinanceiro.ManipuladorDeDados</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
