@@ -3,15 +3,41 @@
   "WorkspaceRootPath": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74AF4E08-E0E0-421B-93D4-1F03A60B89D4}|ControleFinanceiro.BancoDeDados\\ControleFinanceiro.BancoDeDados.csproj|D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\controlefinanceiro.bancodedados\\conexaofirebird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AF4E08-E0E0-421B-93D4-1F03A60B89D4}|ControleFinanceiro.BancoDeDados\\ControleFinanceiro.BancoDeDados.csproj|solutionrelative:controlefinanceiro.bancodedados\\conexaofirebird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\controlefinanceiro\\janelas\\principal\\janela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|solutionrelative:controlefinanceiro\\janelas\\principal\\janela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro\\configuracao.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|solutionrelative:controlefinanceiro\\configuracao.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.BancoDeDados||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.Componente.DockPanel||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.Entidades||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.Componente.CFGrade||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.ManipuladorDoProcesso||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.ManipuladorDeDados||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro\\janelas\\realizarconexao\\janela.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|solutionrelative:controlefinanceiro\\janelas\\realizarconexao\\janela.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro\\janelas\\principal\\janela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|solutionrelative:controlefinanceiro\\janelas\\principal\\janela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\controlefinanceiro\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|solutionrelative:controlefinanceiro\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,26 +45,11 @@
       "RelativeMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|solutionrelative:controlefinanceiro\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.ManipuladorDeDados||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.ManipuladorDoProcesso||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.Componente.CFGrade||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.Entidades||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.Componente.DockPanel||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro\\janelas\\principal\\janela.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\controlefinanceiro\\janelas\\principal\\janela.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|solutionrelative:controlefinanceiro\\janelas\\principal\\janela.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro\\janelas\\manterlivrocaixa\\janela.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\controlefinanceiro\\janelas\\manterlivrocaixa\\janela.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2B2C08-EB27-4A03-819C-586D46E8179A}|ControleFinanceiro\\ControleFinanceiro.csproj|solutionrelative:controlefinanceiro\\janelas\\manterlivrocaixa\\janela.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,29 +57,22 @@
       "RelativeMoniker": "D:0:0:{669EAECD-2B9B-4190-9718-309B1F47CF74}|ControleFinanceiro.ManipuladorDeDados\\ControleFinanceiro.ManipuladorDeDados.csproj|solutionrelative:controlefinanceiro.manipuladordedados\\mdconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ControleFinanceiro.BancoDeDados||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74AF4E08-E0E0-421B-93D4-1F03A60B89D4}|ControleFinanceiro.BancoDeDados\\ControleFinanceiro.BancoDeDados.csproj|D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\controlefinanceiro.bancodedados\\conexaofirebird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74AF4E08-E0E0-421B-93D4-1F03A60B89D4}|ControleFinanceiro.BancoDeDados\\ControleFinanceiro.BancoDeDados.csproj|solutionrelative:controlefinanceiro.bancodedados\\conexaofirebird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74AF4E08-E0E0-421B-93D4-1F03A60B89D4}|ControleFinanceiro.BancoDeDados\\ControleFinanceiro.BancoDeDados.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro.bancodedados\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C75532C4-765B-418E-B09B-46D36B2ABDB1}|ControleFinanceiro.Componente.DockPanel\\ControleFinanceiro.Componente.DockPanel.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro.componente.dockpanel\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAB9E55-66AF-4F31-A58A-D355C22747E8}|ControleFinanceiro.Entidades\\ControleFinanceiro.Entidades.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro.entidades\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA4C0FA6-2067-48DD-BE15-AAE90C6A2E06}|ControleFinanceiro.Componente.CFGrade\\ControleFinanceiro.Componente.CFGrade.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro.componente.cfgrade\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{669EAECD-2B9B-4190-9718-309B1F47CF74}|ControleFinanceiro.ManipuladorDeDados\\ControleFinanceiro.ManipuladorDeDados.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro.manipuladordedados\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11A045B1-86A5-481B-9E1D-EC8A82A5145C}|ControleFinanceiro.ManipuladorDoProcesso\\ControleFinanceiro.ManipuladorDoProcesso.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro.manipuladordoprocesso\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{669EAECD-2B9B-4190-9718-309B1F47CF74}|ControleFinanceiro.ManipuladorDeDados\\ControleFinanceiro.ManipuladorDeDados.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro.manipuladordedados\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{AA4C0FA6-2067-48DD-BE15-AAE90C6A2E06}|ControleFinanceiro.Componente.CFGrade\\ControleFinanceiro.Componente.CFGrade.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro.componente.cfgrade\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAB9E55-66AF-4F31-A58A-D355C22747E8}|ControleFinanceiro.Entidades\\ControleFinanceiro.Entidades.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro.entidades\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75532C4-765B-418E-B09B-46D36B2ABDB1}|ControleFinanceiro.Componente.DockPanel\\ControleFinanceiro.Componente.DockPanel.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro.componente.dockpanel\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AF4E08-E0E0-421B-93D4-1F03A60B89D4}|ControleFinanceiro.BancoDeDados\\ControleFinanceiro.BancoDeDados.csproj|d:\\users\\sergiocabral\\onedrive\\_organizar\\desenvolvimento\\em desenvolvimento\\c# - controlefinanceiro\\controlefinanceiro.bancodedados\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,61 +82,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Janela.cs",
-              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\Principal\\Janela.cs",
-              "RelativeDocumentMoniker": "ControleFinanceiro\\Janelas\\Principal\\Janela.cs",
-              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\Principal\\Janela.cs",
-              "RelativeToolTip": "ControleFinanceiro\\Janelas\\Principal\\Janela.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAASwGUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:45:10.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "ControleFinanceiro\\Properties\\Resources.resx",
-              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Properties\\Resources.resx",
-              "RelativeToolTip": "ControleFinanceiro\\Properties\\Resources.resx",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAWwGwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-10-22T14:33:57.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ControleFinanceiro.Componente.DockPanel",
-              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.Componente.DockPanel\\ControleFinanceiro.Componente.DockPanel.csproj",
-              "RelativeDocumentMoniker": "ControleFinanceiro.Componente.DockPanel\\ControleFinanceiro.Componente.DockPanel.csproj",
-              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.Componente.DockPanel\\ControleFinanceiro.Componente.DockPanel.csproj",
-              "RelativeToolTip": "ControleFinanceiro.Componente.DockPanel\\ControleFinanceiro.Componente.DockPanel.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-22T14:30:14.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ControleFinanceiro.Entidades",
-              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.Entidades\\ControleFinanceiro.Entidades.csproj",
-              "RelativeDocumentMoniker": "ControleFinanceiro.Entidades\\ControleFinanceiro.Entidades.csproj",
-              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.Entidades\\ControleFinanceiro.Entidades.csproj",
-              "RelativeToolTip": "ControleFinanceiro.Entidades\\ControleFinanceiro.Entidades.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-22T14:30:21.724Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -148,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ControleFinanceiro.ManipuladorDoProcesso",
               "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.ManipuladorDoProcesso\\ControleFinanceiro.ManipuladorDoProcesso.csproj",
               "RelativeDocumentMoniker": "ControleFinanceiro.ManipuladorDoProcesso\\ControleFinanceiro.ManipuladorDoProcesso.csproj",
@@ -160,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ControleFinanceiro.ManipuladorDeDados",
               "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.ManipuladorDeDados\\ControleFinanceiro.ManipuladorDeDados.csproj",
               "RelativeDocumentMoniker": "ControleFinanceiro.ManipuladorDeDados\\ControleFinanceiro.ManipuladorDeDados.csproj",
@@ -172,59 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Janela.designer.cs",
-              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\RealizarConexao\\Janela.designer.cs",
-              "RelativeDocumentMoniker": "ControleFinanceiro\\Janelas\\RealizarConexao\\Janela.designer.cs",
-              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\RealizarConexao\\Janela.designer.cs",
-              "RelativeToolTip": "ControleFinanceiro\\Janelas\\RealizarConexao\\Janela.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:38:29.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Resources.Designer.cs",
-              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Properties\\Resources.Designer.cs",
-              "RelativeDocumentMoniker": "ControleFinanceiro\\Properties\\Resources.Designer.cs",
-              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Properties\\Resources.Designer.cs",
-              "RelativeToolTip": "ControleFinanceiro\\Properties\\Resources.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:44:17.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Janela.designer.cs",
-              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\Principal\\Janela.designer.cs",
-              "RelativeDocumentMoniker": "ControleFinanceiro\\Janelas\\Principal\\Janela.designer.cs",
-              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\Principal\\Janela.designer.cs",
-              "RelativeToolTip": "ControleFinanceiro\\Janelas\\Principal\\Janela.designer.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:37:18.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Janela.Designer.cs",
-              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\ManterLivroCaixa\\Janela.Designer.cs",
-              "RelativeDocumentMoniker": "ControleFinanceiro\\Janelas\\ManterLivroCaixa\\Janela.Designer.cs",
-              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\ManterLivroCaixa\\Janela.Designer.cs",
-              "RelativeToolTip": "ControleFinanceiro\\Janelas\\ManterLivroCaixa\\Janela.Designer.cs",
-              "ViewState": "AgIAALsAAAAAAAAAAAAiwMcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:37:15.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "ControleFinanceiro.BancoDeDados",
               "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.BancoDeDados\\ControleFinanceiro.BancoDeDados.csproj",
               "RelativeDocumentMoniker": "ControleFinanceiro.BancoDeDados\\ControleFinanceiro.BancoDeDados.csproj",
@@ -236,7 +142,131 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Janela.designer.cs",
+              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\RealizarConexao\\Janela.designer.cs",
+              "RelativeDocumentMoniker": "ControleFinanceiro\\Janelas\\RealizarConexao\\Janela.designer.cs",
+              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\RealizarConexao\\Janela.designer.cs",
+              "RelativeToolTip": "ControleFinanceiro\\Janelas\\RealizarConexao\\Janela.designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:38:29.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexaoFireBird.cs",
+              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.BancoDeDados\\ConexaoFireBird.cs",
+              "RelativeDocumentMoniker": "ControleFinanceiro.BancoDeDados\\ConexaoFireBird.cs",
+              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.BancoDeDados\\ConexaoFireBird.cs",
+              "RelativeToolTip": "ControleFinanceiro.BancoDeDados\\ConexaoFireBird.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwHUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:30:49.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Janela.cs",
+              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\Principal\\Janela.cs",
+              "RelativeDocumentMoniker": "ControleFinanceiro\\Janelas\\Principal\\Janela.cs",
+              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\Principal\\Janela.cs",
+              "RelativeToolTip": "ControleFinanceiro\\Janelas\\Principal\\Janela.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAqwHIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:45:10.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuracao.xml",
+              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Configuracao.xml",
+              "RelativeDocumentMoniker": "ControleFinanceiro\\Configuracao.xml",
+              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Configuracao.xml",
+              "RelativeToolTip": "ControleFinanceiro\\Configuracao.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-22T15:04:14.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControleFinanceiro.Entidades",
+              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.Entidades\\ControleFinanceiro.Entidades.csproj",
+              "RelativeDocumentMoniker": "ControleFinanceiro.Entidades\\ControleFinanceiro.Entidades.csproj",
+              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.Entidades\\ControleFinanceiro.Entidades.csproj",
+              "RelativeToolTip": "ControleFinanceiro.Entidades\\ControleFinanceiro.Entidades.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T14:30:21.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControleFinanceiro.Componente.DockPanel",
+              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.Componente.DockPanel\\ControleFinanceiro.Componente.DockPanel.csproj",
+              "RelativeDocumentMoniker": "ControleFinanceiro.Componente.DockPanel\\ControleFinanceiro.Componente.DockPanel.csproj",
+              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.Componente.DockPanel\\ControleFinanceiro.Componente.DockPanel.csproj",
+              "RelativeToolTip": "ControleFinanceiro.Componente.DockPanel\\ControleFinanceiro.Componente.DockPanel.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T14:30:14.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "ControleFinanceiro\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Properties\\Resources.resx",
+              "RelativeToolTip": "ControleFinanceiro\\Properties\\Resources.resx",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAWwGwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-22T14:33:57.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "ControleFinanceiro\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "ControleFinanceiro\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:44:17.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Janela.designer.cs",
+              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\Principal\\Janela.designer.cs",
+              "RelativeDocumentMoniker": "ControleFinanceiro\\Janelas\\Principal\\Janela.designer.cs",
+              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\Principal\\Janela.designer.cs",
+              "RelativeToolTip": "ControleFinanceiro\\Janelas\\Principal\\Janela.designer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:37:18.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Janela.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\ManterLivroCaixa\\Janela.Designer.cs",
+              "RelativeDocumentMoniker": "ControleFinanceiro\\Janelas\\ManterLivroCaixa\\Janela.Designer.cs",
+              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro\\Janelas\\ManterLivroCaixa\\Janela.Designer.cs",
+              "RelativeToolTip": "ControleFinanceiro\\Janelas\\ManterLivroCaixa\\Janela.Designer.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAiwMcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:37:15.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MdConexao.cs",
               "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.ManipuladorDeDados\\MdConexao.cs",
               "RelativeDocumentMoniker": "ControleFinanceiro.ManipuladorDeDados\\MdConexao.cs",
@@ -244,20 +274,7 @@
               "RelativeToolTip": "ControleFinanceiro.ManipuladorDeDados\\MdConexao.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAiwBsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:33:20.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConexaoFireBird.cs",
-              "DocumentMoniker": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.BancoDeDados\\ConexaoFireBird.cs",
-              "RelativeDocumentMoniker": "ControleFinanceiro.BancoDeDados\\ConexaoFireBird.cs",
-              "ToolTip": "D:\\Users\\SergioCabral\\OneDrive\\_organizar\\Desenvolvimento\\Em desenvolvimento\\C# - ControleFinanceiro\\ControleFinanceiro.BancoDeDados\\ConexaoFireBird.cs",
-              "RelativeToolTip": "ControleFinanceiro.BancoDeDados\\ConexaoFireBird.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADgvxcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:30:49.849Z"
+              "WhenOpened": "2024-10-22T14:33:20.887Z"
             }
           ]
         }

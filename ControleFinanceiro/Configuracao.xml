@@ -13,6 +13,6 @@
     <Connection_Timeout>15</Connection_Timeout>
     <Pooling>True</Pooling>
     <Packet_Size>8192</Packet_Size>
-    <Server_Type>0</Server_Type>
+    <Server_Type>1</Server_Type>
   </Firebird>
 </ConnectionString>
